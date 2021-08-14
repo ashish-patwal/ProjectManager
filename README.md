@@ -4,5 +4,5 @@
 
 ### Scripts
 
-- start : To start the server in developement .
-- build : To build for production .
+- start : To start the webpack-dev-server in developement .
+- build : To build a bundle.js using webpack for production .
