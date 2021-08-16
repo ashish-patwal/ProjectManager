@@ -1,6 +1,6 @@
-# PROJECT MANAGER
+# PROJECT MANAGER 
 
-## A project that takes care of all your other projects . 
+## A project that takes care of all your other projects . Drag and Drop your projects in various containers to keep them updated .
 
 ### Scripts
 
